@@ -1,6 +1,6 @@
 # BattleShip
 
-## Contents
+## Content
    - [Objective](#objective)
    - [Game Development](#game-development)
    - [Example of Board](#example-of-board)
