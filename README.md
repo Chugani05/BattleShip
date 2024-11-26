@@ -1,18 +1,17 @@
 # BattleShip
 
 ## Contents
+   - [Objective](#objective)
+   - [Game Development](#game-development)
+   - [Example of Board](#example-of-board)
+   - [Scoring](#scoring)
+   - [Notes](#notes)
 
-[Objective](#objective)  
-[Game Development](#game-development)  
-[Example of Board](#example-of-board)  
-[Scoring](#scoring)  
-[Notes](#notes)
-
-### Objective
+## Objective
 
 Write a Python program that allows playing **BATTLESHIP**.
 
-### Game Development
+## Game Development
 
 - **Only one player** plays with a randomly generated `board`.
 - This initial board (`board`) will have a size of 10x10 (as a list of lists) where each cell can be:
@@ -36,7 +35,7 @@ Write a Python program that allows playing **BATTLESHIP**.
   - Score so far.
 - The game ends when all ships have been sunk.
 
-### Example of Board
+## Example of Board
 
 The initial board shows the location of each ship and their identifiers. Here's an example:
 
@@ -53,7 +52,7 @@ The initial board shows the location of each ship and their identifiers. Here's 
 ██ ██ ██ 2A ██ ██ ██ ██ ██ ██
 ```
 
-### Scoring
+## Scoring
 
 | Move             | Score                  |
 | ---------------- | ---------------------- |
@@ -63,6 +62,6 @@ The initial board shows the location of each ship and their identifiers. Here's 
 
 > 💡 The "global" score cannot be less than zero.
 
-### Notes
+## Notes
 
 - Only use Python tools that have been covered in class so far.
