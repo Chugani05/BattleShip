@@ -1,15 +1,14 @@
 # BattleShip
 
 ## Content
-   - [Objective](#objective)
+   - [Description](#description)
    - [Game Development](#game-development)
    - [Example of Board](#example-of-board)
    - [Scoring](#scoring)
-   - [Notes](#notes)
 
-## Objective
+## Description
 
-Write a Python program that allows playing **BATTLESHIP**.
+A Python terminal-based game where the player faces a randomly generated 10x10 board filled with ships of various lengths. The objective is to sink all ships by selecting coordinates (e.g., `A5`) to attack. The game ends when all ships are sunk, ensuring strategy and precision in every move. 
 
 ## Game Development
 
@@ -61,7 +60,3 @@ The initial board shows the location of each ship and their identifiers. Here's 
 | HIT AND SUNK     | 4 \* Ship's Length      |
 
 > 💡 The "global" score cannot be less than zero.
-
-## Notes
-
-- Only use Python tools that have been covered in class so far.
