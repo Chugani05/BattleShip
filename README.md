@@ -1,7 +1,7 @@
 # Battleship
 
 <div align=center>
-  <img src="./resources/battleship.png">
+  <img src="./resources/battleship.png" alt="final look of the project" width="100%">
 </div>
 
 ## Content
