@@ -1,5 +1,9 @@
 # Battleship
 
+<div align=center>
+  <img src="./resources/battleship.png">
+</div>
+
 ## Content
    - [Description](#description)
    - [Game Development](#game-development)
