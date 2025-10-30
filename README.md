@@ -1,4 +1,4 @@
-# BattleShip
+# Battleship
 
 ## Content
    - [Description](#description)
